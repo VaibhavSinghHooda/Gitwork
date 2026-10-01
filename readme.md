@@ -1,16 +1,3 @@
-#this is jst for practice
-i m learning git. yo yo balle balle
+just a try
 
-
-i have done blabakr. 
-#this line is only added on "experiment" branch
-
-this is branch wala change
-
-khali hi krdia
-saara ka saara
-
-
-
-THIS WILL BE STAGED THEN UNSTAGED
 
